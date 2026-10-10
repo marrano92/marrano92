@@ -36,6 +36,10 @@ Five years building web products end to end — PHP/Laravel, WordPress, Vue — 
   it is not done
 - Open source as a way to learn in public and help other developers
 
+## Writing
+
+- [Building a Safari-style Reader Mode as a Chrome Extension (MV3) with DeepL Translation](articles/2026-10-reader-mode-chrome-extension.md) — article extraction, shadow DOM rendering, a translation pipeline that preserves images, and the Chrome Web Store reality check
+
 ## Get in touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrea-marrano)
