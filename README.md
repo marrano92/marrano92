@@ -38,7 +38,7 @@ Five years building web products end to end — PHP/Laravel, WordPress, Vue — 
 
 ## Get in touch
 
-- 🌐 [andreamarrano.it](https://andreamarrano.it/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrea-marrano)
 - 💬 Open an issue on any of my repos — I answer
 
 <!--
