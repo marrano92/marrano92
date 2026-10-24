@@ -13,7 +13,8 @@ problem for someone, and become a better programmer by doing it in public, where
 read the code, question my choices and show me what I missed.
 
 - 🔭 **Currently building:** [Reader Mode AI](https://github.com/marrano92/reader-mode-ai) —
-  a browser extension for reading articles without distractions, with translation in place
+  a browser extension for reading articles without distractions, with translation in place.
+  Now on the [Chrome Web Store](https://chromewebstore.google.com/detail/clpkkaceidpnhpjniailminlknlnlomo)
 - ⚡ I like problems where the answer is a tool people can actually use
 - 🤝 Open to collaborate: if one of my tools helps you, or you see a better way to do something,
   I'd love to hear it
@@ -22,7 +23,7 @@ read the code, question my choices and show me what I missed.
 
 | Project | What it is |
 |---|---|
-| [Reader Mode AI](https://github.com/marrano92/reader-mode-ai) | Chrome extension: a clean reading mode with in-place translation, media preserved, local caching, zero tracking |
+| [Reader Mode AI](https://github.com/marrano92/reader-mode-ai) | Chrome extension: a clean reading mode with in-place translation, media preserved, local caching, zero tracking. [Install from the Chrome Web Store](https://chromewebstore.google.com/detail/clpkkaceidpnhpjniailminlknlnlomo) |
 | [neuro-graph](https://github.com/marrano92/neuro-graph) | Turns YouTube videos and articles into a weighted map of their key ideas |
 | [monitoring-playtomic-tennis](https://github.com/marrano92/monitoring-playtomic-tennis) | Tells me when a tennis court frees up on Playtomic, with alerts |
 
@@ -55,6 +56,5 @@ the stack.
 - 💬 Open an issue on any of my repos — I answer
 
 <!--
-TODO: aggiungere il link Chrome Web Store di Reader Mode AI quando disponibile
 TODO: aggiungere il link al profilo Medium quando aggiornato
 -->
